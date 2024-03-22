@@ -1,0 +1,4 @@
+sample_id,molecule_h5,sample
+pvt2,~/pvt2/outs/molecule_info.h5,pvt2
+pvt3,~/pvt3/outs/molecule_info.h5,pvt3
+pvt4,~/pvt4/outs/molecule_info.h5,pvt4
